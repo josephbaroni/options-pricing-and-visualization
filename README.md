@@ -26,11 +26,11 @@ where:
 
 Solving the equation with boundary conditions
 
-$$ C(0,t) = 0 \, \, \forall t $$
+$$ C(0,t) = 0   \forall t $$
 
-$$ C(S,t) \rightarrow S-K \, \text{as} \, S \rightarrow \infty$$ 
+$$ C(S,t) \rightarrow S-K  \text{as}  S \rightarrow \infty$$ 
 
-$$ C(S,T) = \max \{ S-K, 0 \} $$
+$$ C(S,T) = \max (S-K, 0) $$
 
 we obtain the Black-Scholes formula for a call option:
 
